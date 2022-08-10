@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/360core/.github/main/profile/zerox_white.png" width="150"/>
+<img src="https://raw.githubusercontent.com/0xSync/.github/main/profile/zerox_white.png" width="150"/>
 </div>
 <br />
 <div align="center">
